@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Mac
+.DS_Store
+
+# IDE
+.idea/
+
+# Data (DO NOT upload datasets)
+data/
+
+# Embeddings & indexes
+*.npy
+*.faiss
+*.index
+*.rdb
+
+# Logs
+*.log
